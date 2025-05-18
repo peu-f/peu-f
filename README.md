@@ -1,8 +1,8 @@
-# 🤓 Pedro Rômulo
+# 🎶 Pedro Rômulo
 
 **`Desenvolvedor back-end em formação`**
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web. Nascido em Alagoas e atualmente residente em Brasília, possuo forte interesse em explorar e aprimorar minhas habilidades na área de tecnologia.
+Estudante de Análise e Desenvolvimento de Sistemas em formação, rumo ao fullstack. Nascido em Alagoas e atualmente residente em Brasília, possuo forte interesse em explorar e aprimorar minhas habilidades na área de tecnologia.
 
 <p align="left">
     <a href="https://github.com/peu-f?tab=followers">
