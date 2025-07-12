@@ -1,6 +1,6 @@
 # 🎶 Pedro Rômulo
 
-**`Desenvolvedor back-end em formação`**
+**`Desenvolvedor full-stack em formação`**
 
 Estudante de Análise e Desenvolvimento de Sistemas em formação, rumo ao fullstack. Nascido em Alagoas e atualmente residente em Brasília, possuo forte interesse em explorar e aprimorar minhas habilidades na área de tecnologia.
 
