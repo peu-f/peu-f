@@ -1,6 +1,6 @@
-# 🎶 Pedro Rômulo
+#  Pedro Rômulo
 
-**`Desenvolvedor full-stack em formação`**
+**`Desenvolvedor full-stack`**
 
 Estudante de Análise e Desenvolvimento de Sistemas em formação, rumo ao fullstack. Nascido em Alagoas e atualmente residente em Brasília, possuo forte interesse em explorar e aprimorar minhas habilidades na área de tecnologia.
 
@@ -43,6 +43,18 @@ Estudante de Análise e Desenvolvimento de Sistemas em formação, rumo ao fulls
         title="JavaScript" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        alt="Java" 
+        title="Java" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+    <img 
+        alt="React" 
+        title="React" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
 </p>
 
