@@ -75,6 +75,7 @@ Estudante de Análise e Desenvolvimento de Sistemas em formação, rumo ao fulls
       <img 
         alt="Linguagens mais usadas" 
         height="200" 
+          width="100%"
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=peu-f&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
       />
     </td>
