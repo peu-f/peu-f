@@ -9,14 +9,7 @@ Estudante de Análise e Desenvolvimento de Sistemas em formação, rumo ao fulls
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/peu-f?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/peu-f?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/peu-f?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            src="https://img.shields.io/github/followers/peu-f?style=for-the-badge&logo=github&label=Seguidores&color=236ad3&labelColor=1155ba"
         />
     </a>
 </p>
@@ -68,15 +61,15 @@ Estudante de Análise e Desenvolvimento de Sistemas em formação, rumo ao fulls
       <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=peu-f&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api?username=peu-f&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
       />
     </td>
     <td>
       <img 
         alt="Linguagens mais usadas" 
         height="200" 
-          width="100%"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=peu-f&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=peu-f&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
       />
     </td>
   </tr>
