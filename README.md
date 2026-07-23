@@ -49,6 +49,12 @@ Estudante de Análise e Desenvolvimento de Sistemas em formação, rumo ao fulls
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
+    <img 
+        alt="PHP" 
+        title="PHP" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    />
 </p>
 
 ---
